@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Staybnb | Holiday rentals, cabins, beach houses & more.</title>
+    <link rel="icon" href="titlelogo.png" type="image/icon type">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav id="navBar" class="navBar-white">
+        <a href="index.html"><img src="logo-red.png" class="logo"></a>
+        <ul class="nav-link">
+            <li><a href="index.html">Popular Places</a></li>
+            <li><a href="house.html">Travel Outside</a></li>
+            <li><a href="listing.html"  class="active">Online Packages</a></li>
+        </ul>
+    </nav>
+    <div class="container"></div>
+        <div class="content">
+            <div class="left-side">
+                <div class="address details">
+                    <i class="fa-solid fa-location-dot"> </i>
+                    <div class="topic"><b>ADDRESS</b></div>
+                    <div class="text-one">Palej,</div>
+                    <div class="text-two">Bharuch-392001</div>
+                </div>
+                <div class="phone details">
+                    <i class="fa-solid fa-phone"></i>
+                    <div class="topic"><b>PHONE</b></div>
+                    <div class="text-one">+91 989.. ..2244</div>
+                </div>
+                <div class="email details">
+                    <i class="fa-solid fa-envelope"></i>
+                    <div class="topic">EMAIL</div>
+                    <div class="text-one">royalcola123@gmail.com</div>
+                    <div class="text-two">www.royalcola.com</div>
+                </div>
+            </div>
+            <div class="right-side">
+                <div class="topic-text">WANT TO REACH US</div>
+                <p>If you want to reach us or want to work with us then please fill these form.</p>
+                <form action="#">
+                    <div class="input-box">
+                        <input type="text" placeholder="Enter a Full name">
+                    </div>
+                    <div class="input-box">
+                        <input type="text" placeholder="Enter a email">
+                    </div>
+                    <div class="input-box message-box">
+                        <textarea placeholder="Message"></textarea>
+                    </div>
+                    <button class="cta-button" onclick="OpenSlide()">Submit</button>
+                    <div class="popup" id="popup">
+                        <i class="fa-regular fa-circle-check"></i>
+                        <h2>Thank you</h2>
+                        <p>Your details has been successfully submitted. Thanks!!</p>
+                        <button onclick="CloseSlide()">OK</button>
+                    </div>
+                    &nbsp&nbsp&nbsp<button class="cta-button">Cancel</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <script>
+        var navBar = document.getElementById("navBar");
+        function togglebtn(){
+            navBar.classList.toggle("hidemenu");
+        }
+    </script>
+</body>
+</html>
