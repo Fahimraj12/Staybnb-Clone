@@ -37,7 +37,7 @@ StayBnB-Clone/
 ## 📸 Screenshots
 
 ### 🏠 Landing Page
-![Landing Page](images/screenshot1.png)
+<img width="1465" height="796" alt="staybnb" src="https://github.com/user-attachments/assets/bca604f2-167f-4e72-a26a-e403e78afce5" />
 
 ### 📱 Mobile View
 ![Mobile View](images/screenshot2.png)
