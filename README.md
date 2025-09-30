@@ -43,7 +43,10 @@ StayBnB-Clone/
 ![Mobile View](images/screenshot2.png)
 
 ---
+## To View the Website
+- visit : https://fahimraj12.github.io/Staybnb-Clone/
 
+---
 ## 👨‍💻 Author
 
 **[Mo Fahim Raj](https://github.com/Fahimraj12)**  
