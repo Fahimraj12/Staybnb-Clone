@@ -26,7 +26,7 @@ This project showcases a responsive landing page and UI components for a propert
 
 ## 📂 Project Structure
 StayBnB-Clone/
-│── index.html # Main landing page
+####### │── index.html # Main landing page
 │── style.css # Stylesheet
 │── script.js # JavaScript interactivity
 │── images/ # Images used in the project
