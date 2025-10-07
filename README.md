@@ -1,5 +1,4 @@
 # StayBnB Clone 
-
 A front-end clone of **StayBnB** (Airbnb-inspired) built using **HTML, CSS, and JavaScript**.  
 This project showcases a responsive landing page and UI components for a property rental website.
 
