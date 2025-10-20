@@ -46,8 +46,7 @@ StayBnB-Clone/
 - visit : https://fahimraj12.github.io/Staybnb-Clone/
 
 ---
-## 👨‍💻 Author
-
-**[Mo Fahim Raj](https://github.com/Fahimraj12)**  
-
-## <Center>2025@All Rights Reserved</center>
+### 👨‍💻 Author
+- [Mo Fahim Raj](https://www.linkedin.com/in/mo-fahim-raj-175b9b304/)
+- 📧 [mofahimraj@gmail.com]
+- 🔗 [GitHub Profile](https://github.com/Fahimraj12)
