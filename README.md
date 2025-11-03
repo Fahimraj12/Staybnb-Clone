@@ -31,6 +31,12 @@ StayBnB-Clone/
 ###### │── images/ # Images used in the project
 ###### │── README.md # Project documentation
 
+### Getting Started (Run Locally)
+- Clone the repository
+  ```bash
+  git clone https://github.com/Fahimraj12/Staybnb-Clone.git
+  cd Staybnb-Clone
+
 ---
 
 ## 📸 Screenshots
